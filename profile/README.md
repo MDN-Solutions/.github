@@ -6,6 +6,10 @@ We help businesses transform ideas into practical digital solutions that simplif
 
 At **MDN Solutions**, every project begins with understanding the business behind it. We combine creativity, strategic thinking, and technology to develop solutions tailored to real needs and business goals.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MDN-Solutions/.github/main/profile/banner.jpg" alt="MDN Solutions" width="100%">
+</p>
+
 ## What We Do
 
 - **Websites & Landing Pages** — Professional digital experiences designed to strengthen brands, showcase services, and attract potential customers.
@@ -13,18 +17,6 @@ At **MDN Solutions**, every project begins with understanding the business behin
 - **Business Automation** — Smarter processes that reduce repetitive tasks, save time, and improve efficiency.
 - **Custom Digital Solutions** — Products designed around each business's unique challenges, needs, and objectives.
 - **Digital Experiences** — Intuitive, user-focused experiences that make products and services easier to access and use.
-
-## How We Work
-
-**Understand. Build. Evolve.**
-
-1. **Understand** — We identify your challenges, goals, and opportunities.
-2. **Build** — We create solutions aligned with your business needs.
-3. **Evolve** — We continuously seek opportunities to improve and deliver greater value.
-
-## Our Mission
-
-To help businesses grow through accessible, purposeful, and reliable digital solutions that solve real problems and make everyday work better.
 
 ## Let's Build Something Better
 
